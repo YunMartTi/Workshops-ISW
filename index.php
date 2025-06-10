@@ -33,11 +33,12 @@
 </head>
 <body>
     <div class="welcome-container">
-        <h1 class="mb-4">Bienvenido a mi portafolio</h1>
+        <h1 class="mb-4 border border-gray-100">Bienvenido a mi portafolio</h1>
         <p class="mb-4">Soy Yunior Martínez Tinoco, estudiante de Ingeniería del Software.<br>Enlaces:</p>
         <a href="Workshop1/index.php" class="btn btn-custom">📄 Workshop1 -> Prueba</a><br>
-        <a href="Workshop2/index.html" class="btn btn-custom">📄 Workshop2 -> Curriculum</a>
-        
+        <a href="Workshop2/index.html" class="btn btn-custom">📄 Workshop2 -> Curriculum</a><br>
+        <a href="Workshop3/index.html" class="btn btn-custom">📄 Workshop3 -> Noticiero</a>
+
     </div>
 </body>
 </html>
