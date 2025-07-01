@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffffff;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+section.titulos {
+    background: #ffffff;
+    text-align: center;
+    color: #000;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    text-align: center;
+    padding-top: 80px;
+}
+
+input{
+    width: 180px;
+    height: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 16px;
+}
+
+p.login {
+    font-size: 16px;
+    color: #000;
+    margin-top: 10px;
+}
+
+.btn{
+    background-color: #292ed1;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
